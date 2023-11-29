@@ -12,7 +12,7 @@ Task Manager is a React.js-based web application created with Vite and Yarn that
 
 ## Features
 
-- Create new tasks with a title and description.
+- Create new tasks.
 - Mark tasks as complete.
 - Delete tasks.
 - Dark and modern design for an enhanced user experience.
